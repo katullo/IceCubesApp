@@ -82374,6 +82374,12 @@
             "value" : "Hide posts from bots"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nascondi i post dei bot"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
